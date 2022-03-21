@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Saif",
+    "lastName": "Rahal",
+    "date": "23/6/1997",
+    "remarks": "new",
+    "insurance": "Car"
+  },
+  {
+    "name": "Ezat",
+    "lastName": "Fahoum",
+    "date": "1/1/1111",
+    "remarks": "no",
+    "insurance": "Car"
+  },
+  {
+    "name": "Sharif",
+    "lastName": "Khanifs",
+    "date": "2/2/2222",
+    "remarks": "no remark",
+    "insurance": "apartment"
+  }
+]
